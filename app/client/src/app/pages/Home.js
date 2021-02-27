@@ -329,7 +329,7 @@ class Home extends Component<Props> {
                 <Icon size={22} type="help" />
               </HelpButton>
             </ImportRow>
-            <a id="resumejob-link" href="http://resumejob.github.io/">
+            <a id="resumejob-link" href="https://co.osjobs.net/">
               简历评测 | 模拟面试
             </a>
           </LeftSection>
@@ -342,10 +342,10 @@ class Home extends Component<Props> {
           </RightSection>
         </Main>
         <Footer>
-          <Copyright>© 2020 ResumeJob </Copyright>
+          <Copyright>© 2020 Overseas Rabbit </Copyright>
           <Links>
             <Link to="/about">About</Link>
-            <a href="mailto:contact@resumejob.net">Contact</a>
+            <a href="mailto:contact@osjobs.net">Contact</a>
           </Links>
         </Footer>
       </Wrapper>
